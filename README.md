@@ -4,6 +4,7 @@ red
 blue
 orange
 violet
+indigo
 The end of my poem
 
 the colours of unicorn are 
